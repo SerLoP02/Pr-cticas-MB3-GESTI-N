@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "_comment": "El campo de AzureWebJobsStorage es necesario para que me coga la memoria de azurite", 
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  }
+}
